@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev:backend": "rbt dev run"
+    "dev:backend": "rbt dev run",
+    "protoc": "rbt protoc"
   },
   "dependencies": {
     "@reboot-dev/reboot": "0.19.2",
